@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.5.0](https://github.com/ublue-os/bazzite/compare/v2.4.0...v2.5.0) (2024-03-16)
+
+
+### Features
+
+* Add udica for generating SELinux policies for containers ([b18c31b](https://github.com/ublue-os/bazzite/commit/b18c31b44a35006b0308e68ae090919bd557716f))
+
+
+### Bug Fixes
+
+* Correct issue with hhd being enabled on root, add HHD adjustor package. ([929cee4](https://github.com/ublue-os/bazzite/commit/929cee487d31ebc400f94485b974748465df9bea))
+* Remove unneeded file checks from hardware setup ([7133fc7](https://github.com/ublue-os/bazzite/commit/7133fc773a5c600290d6f9f492a638a23b851cb2))
+
 ## [2.4.0](https://github.com/ublue-os/bazzite/compare/v2.3.0...v2.4.0) (2024-03-14)
 
 
